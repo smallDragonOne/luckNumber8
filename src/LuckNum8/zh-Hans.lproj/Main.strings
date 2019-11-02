@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "lucky 8"; ObjectID = "1Sa-mG-1Zm"; */
+"1Sa-mG-1Zm.text" = "lucky 8";
+
+/* Class = "UILabel"; text = "最大值"; ObjectID = "71h-fd-gmD"; */
+"71h-fd-gmD.text" = "最大值";
+
+/* Class = "UILabel"; text = "88"; ObjectID = "OjQ-qe-aGV"; */
+"OjQ-qe-aGV.text" = "88";
+
+/* Class = "UILabel"; text = "点击屏幕开始"; ObjectID = "QKc-TK-sX7"; */
+"QKc-TK-sX7.text" = "点击屏幕开始";
+
+/* Class = "UITextField"; text = "100"; ObjectID = "bdA-mb-MQm"; */
+"bdA-mb-MQm.text" = "100";
+
+/* Class = "UITextField"; text = "20"; ObjectID = "fNG-lh-4zb"; */
+"fNG-lh-4zb.text" = "20";
+
+/* Class = "UILabel"; text = "误差%"; ObjectID = "fsj-qQ-0DF"; */
+"fsj-qQ-0DF.text" = "误差%";
+
+/* Class = "UITextField"; text = "3"; ObjectID = "fzB-LT-hYM"; */
+"fzB-LT-hYM.text" = "3";
+
+/* Class = "UILabel"; text = "预测值"; ObjectID = "nrs-40-Fc1"; */
+"nrs-40-Fc1.text" = "预测值";

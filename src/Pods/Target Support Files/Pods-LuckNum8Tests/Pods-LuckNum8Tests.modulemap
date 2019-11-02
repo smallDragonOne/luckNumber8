@@ -1,0 +1,6 @@
+framework module Pods_LuckNum8Tests {
+  umbrella header "Pods-LuckNum8Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
